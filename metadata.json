@@ -1,0 +1,6 @@
+{
+  "name": "GeoMap",
+  "description": "Aplicación de mapas interactivos con navegación de rutas, búsqueda de lugares, marcadores y estilos de mapa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
